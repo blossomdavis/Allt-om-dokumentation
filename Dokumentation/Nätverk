@@ -14,3 +14,8 @@
 
 * Automatiska säkerhetskopior: Automatisera säkerhetskopieringen av enhetskonfigurationer så att de senaste inställningarna alltid finns sparade.
 
+### 3. Dokumentera nätverkstopologin
+* Fysisk topologi: Detaljerade scheman över hur enheter är fysiskt sammankopplade, inklusive kabeltyper och kabellängder.
+
+* Logisk topologi: Hur data flödar genom nätverket, inklusive IP-adresser, subnät, VLAN-konfigurationer och routning.
+
