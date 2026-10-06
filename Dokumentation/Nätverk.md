@@ -1,0 +1,54 @@
+# Sammanfattning av de viktigaste principerna/stegen
+https://netboxlabs.com/blog/an-in-depth-guide-to-writing-network-documentation/
+
+### 1. Börja med heltäckande inventering
+* Enhetslista: Dokumentera alla nätverksenheter som routrar, servrar, brandväggar, accesspunkter och relevanta slutanvändarprodukter. 
+
+* Programvara och system: Lista mjukvara, applikationer, operativsystem, versionsnummer och licensdetaljer.
+
+* Tjänsteleverantörer: Spara kontakt- och avtalsdetaljer för internetleverantörer (ISP), molntjänster och andra externa leverantörer. 
+
+### 2. Uttnyttja automatiseringsverktyg
+* Upptäcktsverktyg (Discovery tools): Använd automatiserade verktyg för att hitta och lista enheter, vilket sparar tid särskilt vid uppstart eller i stora nätverk.
+
+* Konfigurationshantering: Verktyg som NetBox hjälper till att dokumentera nätverkets tänkta eller designade tillstånd för att säkerställa att dokumentationen synkas med verkligheten.
+
+* Automatiska säkerhetskopior: Automatisera säkerhetskopieringen av enhetskonfigurationer så att de senaste inställningarna alltid finns sparade.
+
+### 3. Dokumentera nätverkstopologin
+* Fysisk topologi: Detaljerade scheman över hur enheter är fysiskt sammankopplade, inklusive kabeltyper och kabellängder.
+
+* Logisk topologi: Hur data flödar genom nätverket, inklusive IP-adresser, subnät, VLAN-konfigurationer och routning.
+
+### Detaljera säkerhetsprotokoll
+* Åtkomstkontroll (Access Control): Dokumentera vem som har tillgång till vad (användarroller, behörigheter och särbehörigheter).
+
+* Säkerhetsåtgärder: Detaljer kring brandväggsregler, system för intrångsdetektering (IDS) och andra skyddsmekanismer.
+
+### 5. Upprätthåll rutiner för ändringshantering (Change Management)
+* Logga alla ändringar: Oavsett om det gäller mindre konfigurationsändringar eller stora uppgraderingar ska ändringen, orsaken till den, ansvarig person och datum dokumenteras.
+
+* Granskningsprocess: Ha en fastslagen rutin för att granska större förändringar i förväg för att minimera risker.
+
+### 6. Regelbunden granskning och uppdatering
+* Schemalagda genomgångar: Gör kvartalsvisa eller halvårsvisa översyner av dokumentationen för att fånga upp avvikelser.
+
+* Uppdatering direkt vid förändring: Vid större nätverksförändringar (t.ex. nya kontor eller ny teknik) måste dokumentationen uppdateras omedelbart.
+
+### 7. Säkerhet och tillgänglighet för själva dokumentationen
+* Åtkomststyrning: Dokumentationen är känslig information och bör endast vara tillgänglig för behörig personal. 
+
+* Backup av dokumentationen: Säkerhetskopiera dokumentationen regelbundet och lagra kopior på flera platser (exempelvis i molnet) för att skydda mot dataförlust.
+
+### 8. Utbildning och onboarding
+* Intern träning: Säkerställ att nyanställda utbildas i hur de läser, använder och uppdaterar dokumentationen.
+
+* Feedback-slingor: Uppmuntra teammedlemmar att komma med förbättringsförslag kring dokumentationen.
+
+### 9. Håll dig uppdaterad om branschstandarder
+* Kontinuerlig kompetensutveckling och engagemang i nätverksforum hjälper till att snappa upp nya metoder och verktyg inom dokumentation.
+
+### Ett sista tips!
+* Konsekvens: Följ alltid ett enhetligt format för att underlätta läsning och förståelse.
+
+* Använd visuella hjälpmedel: Komplettera text med nätverksdiagram eftersom "en bild säger mer än tusen ord". 
