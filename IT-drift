@@ -1,0 +1,9 @@
+# Sammanfattning av de viktigaste principerna/stegen
+
+### 1. Varför är dokumentationen nödvändig?
+* Minskar sårbarhet och personberoende: Otillräcklig dokumentation gör felsökning svår och skapar ett sårbart beroende av enskilda medarbetare. Om kunskapen endast finns hos ett fåtal personer riskerar verksamheten stora problem vid personalomsättning. 
+
+* Kortare felsökningstid: Rätt dokumentation minskar tiden det tar att lösa incidenter och återställa systemen när något går fel. 
+
+* Stöd för processer och regelverk: Korrekt dokumentation är helt avgörande för strukturerade arbetssätt som ITIL-förändringshantering, spårbarhet vid patchning, samt för att möta regulatoriska krav och förenkla revisioner. 
+
