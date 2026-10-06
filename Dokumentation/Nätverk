@@ -5,4 +5,12 @@
 
 * Programvara och system: Lista mjukvara, applikationer, operativsystem, versionsnummer och licensdetaljer.
 
-Tjänsteleverantörer: Spara kontakt- och avtalsdetaljer för internetleverantörer (ISP), molntjänster och andra externa leverantörer. 
+* Tjänsteleverantörer: Spara kontakt- och avtalsdetaljer för internetleverantörer (ISP), molntjänster och andra externa leverantörer. 
+
+### 2. Uttnyttja automatiseringsverktyg
+* Upptäcktsverktyg (Discovery tools): Använd automatiserade verktyg för att hitta och lista enheter, vilket sparar tid särskilt vid uppstart eller i stora nätverk.
+
+* Konfigurationshantering: Verktyg som NetBox hjälper till att dokumentera nätverkets tänkta eller designade tillstånd för att säkerställa att dokumentationen synkas med verkligheten.
+
+* Automatiska säkerhetskopior: Automatisera säkerhetskopieringen av enhetskonfigurationer så att de senaste inställningarna alltid finns sparade.
+
