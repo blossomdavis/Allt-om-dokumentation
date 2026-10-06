@@ -1,2 +1,8 @@
 # Sammanfattning av de viktigaste principerna/stegen
 
+### 1. Börja med heltäckande inventering
+* Enhetslista: Dokumentera alla nätverksenheter som routrar, servrar, brandväggar, accesspunkter och relevanta slutanvändarprodukter. 
+
+* Programvara och system: Lista mjukvara, applikationer, operativsystem, versionsnummer och licensdetaljer.
+
+Tjänsteleverantörer: Spara kontakt- och avtalsdetaljer för internetleverantörer (ISP), molntjänster och andra externa leverantörer. 
