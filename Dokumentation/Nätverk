@@ -28,3 +28,8 @@
 * Logga alla ändringar: Oavsett om det gäller mindre konfigurationsändringar eller stora uppgraderingar ska ändringen, orsaken till den, ansvarig person och datum dokumenteras.
 
 * Granskningsprocess: Ha en fastslagen rutin för att granska större förändringar i förväg för att minimera risker.
+
+### 6. Regelbunden granskning och uppdatering
+* Schemalagda genomgångar: Gör kvartalsvisa eller halvårsvisa översyner av dokumentationen för att fånga upp avvikelser.
+
+* Uppdatering direkt vid förändring: Vid större nätverksförändringar (t.ex. nya kontor eller ny teknik) måste dokumentationen uppdateras omedelbart.
