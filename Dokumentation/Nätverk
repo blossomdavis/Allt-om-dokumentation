@@ -24,3 +24,7 @@
 
 * Säkerhetsåtgärder: Detaljer kring brandväggsregler, system för intrångsdetektering (IDS) och andra skyddsmekanismer.
 
+### 5. Upprätthåll rutiner för ändringshantering (Change Management)
+* Logga alla ändringar: Oavsett om det gäller mindre konfigurationsändringar eller stora uppgraderingar ska ändringen, orsaken till den, ansvarig person och datum dokumenteras.
+
+* Granskningsprocess: Ha en fastslagen rutin för att granska större förändringar i förväg för att minimera risker.
