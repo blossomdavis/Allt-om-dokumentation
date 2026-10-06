@@ -33,3 +33,9 @@
 * Schemalagda genomgångar: Gör kvartalsvisa eller halvårsvisa översyner av dokumentationen för att fånga upp avvikelser.
 
 * Uppdatering direkt vid förändring: Vid större nätverksförändringar (t.ex. nya kontor eller ny teknik) måste dokumentationen uppdateras omedelbart.
+
+### 7. Säkerhet och tillgänglighet för själva dokumentationen
+* Åtkomststyrning: Dokumentationen är känslig information och bör endast vara tillgänglig för behörig personal. 
+
+* Backup av dokumentationen: Säkerhetskopiera dokumentationen regelbundet och lagra kopior på flera platser (exempelvis i molnet) för att skydda mot dataförlust.
+
