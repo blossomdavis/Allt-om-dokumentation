@@ -20,7 +20,7 @@ https://netboxlabs.com/blog/an-in-depth-guide-to-writing-network-documentation/
 
 * Logisk topologi: Hur data flödar genom nätverket, inklusive IP-adresser, subnät, VLAN-konfigurationer och routning.
 
-### Detaljera säkerhetsprotokoll
+### 4. Detaljera säkerhetsprotokoll
 * Åtkomstkontroll (Access Control): Dokumentera vem som har tillgång till vad (användarroller, behörigheter och särbehörigheter).
 
 * Säkerhetsåtgärder: Detaljer kring brandväggsregler, system för intrångsdetektering (IDS) och andra skyddsmekanismer.
