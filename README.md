@@ -1,2 +1,2 @@
 # Allt-om-n-tverksdokumentation
-Hur man skapar, underhåller och framtidssäkrar nätverksdokumentation. 
+Hur man skapar, underhåller och framtidssäkrar dokumentation inom IT. 
